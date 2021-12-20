@@ -40,8 +40,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 Improving my HTML and CSS skills, I'm still a newbie
